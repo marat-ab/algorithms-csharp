@@ -6,7 +6,7 @@ namespace AlgorithmsCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Stub");
+            Console.WriteLine("Stub");            
         }
     }
 }
